@@ -1,0 +1,24 @@
+body {
+    font-family: 'Thasadith', sans-serif;
+    background-color: #fcfcfc;
+}
+.row {
+    margin: 0px;
+}
+.rem10 {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.backgroundcolor {
+    background-color: yellowgreen;
+}
+
+.center {
+    text-align: center;
+}
+
+.responsive-img-products {
+    max-width: auto;
+    height:300px;
+}

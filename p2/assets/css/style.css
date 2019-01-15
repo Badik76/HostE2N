@@ -1,0 +1,59 @@
+body {
+    font-family: 'Thasadith', sans-serif;
+    background-color: #fcfcfc;
+    background-image :url(../img/clinic2.jpg);
+    background-size: cover;
+}
+.responsive-img {
+    margin-top: 4rem;
+}
+.row {
+    margin: 0px;
+}
+.rem10 {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+span.error {
+    color: red;
+    font-style: italic;
+    font-size: 0.8rem;
+    
+}
+.table-patient {
+    font-size: 0.8rem;
+}
+ul, li.modal-content {
+    font-size: 1rem;
+}
+h1.list-patient {
+    font-size: 2rem;
+}
+
+h2.error {
+    color: red;
+}
+
+p.alerte {
+    color:blue;
+}
+.container.content {
+    background-color: rgba(255,255,255,0.6);
+    height: 20rem;
+    margin-top: 10rem;
+}
+.container.contente {
+    background-color: rgba(255,255,255,0.6);
+}
+.add{
+    margin-bottom: 2rem;
+    width: 20rem;
+}
+#RDV {
+    background-image:url(../img/prendrerdv.jpeg)
+}
